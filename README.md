@@ -1,6 +1,6 @@
 # Advent of Code 2024 Solutions
 
-Welcome to the repository containing solutions for each day of the **Advent of Code 2024** challenge. The solutions are implemented in various programming languages and each day has its own directory containing the code and input files.
+Welcome to the repository containing solutions for each day of the **Advent of Code 2024** challenge. Each day has its own directory containing the code and input files.
 
 ## About the Challenge
 
